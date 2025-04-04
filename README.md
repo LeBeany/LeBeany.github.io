@@ -1,4 +1,3 @@
-[//]: # Tabs are going to be as followed: Bio, Projects, Photography, Blog?, Resume
 # Benjamin Stoll
 ## Aspiring Biomedical Engineer
 
